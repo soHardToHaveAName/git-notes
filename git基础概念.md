@@ -46,4 +46,4 @@
 
 ## 状态转移详细图解：
 
-![Alt text](git-commands.drawio.svg)
+![Alt text](git-commands2.png)
